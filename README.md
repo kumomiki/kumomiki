@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Miki, Nice to see you here!
+### Hi there 👋 I'm Miki!
 
 <!--
 **kumomiki/kumomiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
