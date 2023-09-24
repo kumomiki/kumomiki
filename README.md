@@ -14,7 +14,7 @@
  <p>
   
     - Name: Miki
-    - Hobbies: Movies, Animation, Music
+    - Hobbies: Movies, Animation, Music. Design
     - Languages: Mandarin, English, Japanese, Chinese
 
  </p>    
