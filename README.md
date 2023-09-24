@@ -51,7 +51,7 @@
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kumomiki&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumomiki&layout=compact&theme=radical&card_width=500px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumomiki&layout=compact&theme=radical"/>
 </a>
 </p>
 
