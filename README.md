@@ -6,7 +6,7 @@
     - 🔭 I’m currently working on improving me skills.
     - 🌱 I’m currently learning Project Management & Data Analytics. 
 
-```About me```
+**```About me```**
 <div>
  <p>
   <img align="left" src="/avatarM.png" height="90px" />
@@ -20,7 +20,7 @@
  </p>    
 </div>
 
-```Tech Stack```
+**```Tech Stack```**
 <br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
@@ -45,10 +45,10 @@
 
 <br>
 
-```GitHub Status```
+**```GitHub Status```**
 <br>
 
-<p align="center">
+<p>
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kumomiki&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumomiki&layout=compact&theme=radical"/>
